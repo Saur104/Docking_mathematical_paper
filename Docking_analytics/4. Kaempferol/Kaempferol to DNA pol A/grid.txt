@@ -1,0 +1,4 @@
+POLQ_clean
+spacing    0.658
+npts       126 126 126
+center    36.059  6.490 39.614

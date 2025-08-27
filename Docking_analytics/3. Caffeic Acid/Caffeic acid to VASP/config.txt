@@ -1,0 +1,14 @@
+receptor = VASP.pdbqt
+ligand = caffeic_acid.pdbqt
+
+center_x = 39.550
+center_y = 19.052
+center_z = -0.461
+
+size_x = 124
+size_y = 46
+size_z = 74
+
+energy_range = 4
+
+exhaustiveness = 32

@@ -1,0 +1,4 @@
+DNA_Pol_B
+spacing    0.769
+npts       126 126 126
+center    15.034 -14.108 -9.151

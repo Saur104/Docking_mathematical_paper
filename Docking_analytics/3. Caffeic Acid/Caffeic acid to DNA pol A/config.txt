@@ -1,0 +1,14 @@
+receptor = POLQ_clean.pdbqt
+ligand = caffeic_acid.pdbqt
+
+center_x = 41.247
+center_y = 0.444
+center_z = 39.614
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+energy_range = 4
+
+exhaustiveness = 32

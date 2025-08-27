@@ -1,0 +1,14 @@
+receptor = CYP19.pdbqt
+ligand = Kaempferol_ligand.pdbqt
+
+center_x = 55.705
+center_y = 55.241
+center_z = 46.434
+
+size_x = 126
+size_y = 122
+size_z = 106
+
+energy_range = 4
+
+exhaustiveness = 32

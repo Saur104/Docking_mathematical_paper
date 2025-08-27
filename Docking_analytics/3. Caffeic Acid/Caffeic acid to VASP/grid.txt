@@ -1,0 +1,4 @@
+VASP
+spacing    0.914
+npts       126 46 74
+center    39.550 19.052 -0.461

@@ -1,0 +1,14 @@
+receptor = CYP19.pdbqt
+ligand = caffeic_acid.pdbqt
+
+center_x = 83.339
+center_y = 50.052
+center_z = 46.434
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+energy_range = 8
+
+exhaustiveness = 32

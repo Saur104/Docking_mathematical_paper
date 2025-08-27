@@ -1,0 +1,15 @@
+receptor = DNA_Pol_B.pdbqt
+ligand = caffeic_acid.pdbqt
+
+center_x = 22.782
+center_y = -14.471
+center_z = -12.906
+
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+energy_range = 4
+
+exhaustiveness = 32

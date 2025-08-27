@@ -1,0 +1,14 @@
+receptor = VASP.pdbqt
+ligand = Kaempferol_ligand.pdbqt
+
+center_x = 26.633
+center_y = 17.148
+center_z =-4.650
+
+size_x = 126
+size_y = 126
+size_z = 108
+
+energy_range = 4
+
+exhaustiveness = 32
