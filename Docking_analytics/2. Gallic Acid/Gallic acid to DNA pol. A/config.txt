@@ -1,0 +1,14 @@
+receptor = POLQ_clean.pdbqt
+ligand = Gallic_acid.pdbqt
+
+center_x = 39.412
+center_y = -1.127
+center_z = 39.703
+
+size_x = 126
+size_y = 126
+size_z = 126
+
+energy_range = 4
+
+exhaustiveness = 32

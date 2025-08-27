@@ -1,0 +1,14 @@
+receptor = DNA_Pol_B.pdbqt
+ligand = Gallic_acid.pdbqt
+
+center_x = 16.586
+center_y = -15.836
+center_z = -19.234
+
+size_x = 124
+size_y = 126
+size_z = 126
+
+energy_range = 4
+
+exhaustiveness = 32
