@@ -1,0 +1,14 @@
+receptor = DNA_Pol_B.pdbqt
+ligand = Quercetin_ligand.pdbqt
+
+center_x = 17.503
+center_y = -16.595
+center_z = -20.966
+
+size_x = 126
+size_y = 122
+size_z = 126
+
+energy_range = 4
+
+exhaustiveness = 32
